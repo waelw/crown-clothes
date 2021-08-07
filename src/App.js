@@ -1,12 +1,19 @@
-import logo from './logo.svg';
+
 import './App.css';
-import HomePage from './homepage.component';
+import HomePage from './pages/homepage/homepage.component';
+import ShopPage from './pages/shopPage/shopPage.component';
+import {Switch, Route} from "react-router-dom"
 
 function App() {
   return (
-    <div className="App">
-      <HomePage></HomePage>
+    // <Route path="/" component={HomePage}></Route>
+    <div>
+      <Switch>
+        <Route exact path = "/" component={HomePage} />
+        <Route exact path = "/shop" component = {ShopPage}></Route>
+      </Switch>
     </div>
+   
   );
 }
 
