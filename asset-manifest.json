@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/crow-cloths/static/css/main.3df7e416.chunk.css",
+    "main.js": "/crow-cloths/static/js/main.21d9e080.chunk.js",
+    "main.js.map": "/crow-cloths/static/js/main.21d9e080.chunk.js.map",
+    "runtime-main.js": "/crow-cloths/static/js/runtime-main.043d4f83.js",
+    "runtime-main.js.map": "/crow-cloths/static/js/runtime-main.043d4f83.js.map",
+    "static/js/2.33e5c203.chunk.js": "/crow-cloths/static/js/2.33e5c203.chunk.js",
+    "static/js/2.33e5c203.chunk.js.map": "/crow-cloths/static/js/2.33e5c203.chunk.js.map",
+    "index.html": "/crow-cloths/index.html",
+    "static/css/main.3df7e416.chunk.css.map": "/crow-cloths/static/css/main.3df7e416.chunk.css.map",
+    "static/js/2.33e5c203.chunk.js.LICENSE.txt": "/crow-cloths/static/js/2.33e5c203.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.043d4f83.js",
+    "static/js/2.33e5c203.chunk.js",
+    "static/css/main.3df7e416.chunk.css",
+    "static/js/main.21d9e080.chunk.js"
+  ]
+}
